@@ -1,0 +1,25 @@
+{
+  "name": "Course Registration",
+  "homepage": "#",
+  "authors": [
+    "creative-tim"
+  ],
+  "description": "Choose Your Classes",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "Creative TIM License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

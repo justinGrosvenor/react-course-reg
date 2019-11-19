@@ -1,0 +1,24 @@
+{ "courses" : 
+    [
+        {
+            "name": "React JS vs Angular",
+            "id": 1,
+            "registered": 0
+        },
+        {
+            "name": "ASP.NET Core or Node JS?",
+            "id": 2,
+            "registered": 0
+        },
+        {
+            "name": "Lifecycle of React JS Components",
+            "id": 3,
+            "registered": 0
+        },
+        {
+            "name": "Comparing JavaScript Libraries/Frameworks",
+            "id": 4,
+            "registered": 0
+        }
+    ]
+}
